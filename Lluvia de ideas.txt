@@ -33,16 +33,13 @@ Lluvia de ideas
 -Elementos (Tierra,fuego,agua,aire)
 
 
--Historia
-
-
 -Sistema de decisiones
 
 
 -Npc`s (Nativos)
 
 
--Tiktok
+-Tiktok (IMPORTANTE)
 
 
 -Sistema de combate
